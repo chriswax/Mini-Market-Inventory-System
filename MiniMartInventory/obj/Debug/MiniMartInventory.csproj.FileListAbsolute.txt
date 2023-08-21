@@ -1,0 +1,17 @@
+C:\Users\chris\Documents\Citechs\CSharp\MiniMartInventory\MiniMartInventory\bin\Debug\MiniMartInventory.exe.config
+C:\Users\chris\Documents\Citechs\CSharp\MiniMartInventory\MiniMartInventory\bin\Debug\MiniMartInventory.exe
+C:\Users\chris\Documents\Citechs\CSharp\MiniMartInventory\MiniMartInventory\bin\Debug\MiniMartInventory.pdb
+C:\Users\chris\Documents\Citechs\CSharp\MiniMartInventory\MiniMartInventory\obj\Debug\MiniMartInventory.csproj.AssemblyReference.cache
+C:\Users\chris\Documents\Citechs\CSharp\MiniMartInventory\MiniMartInventory\obj\Debug\MiniMartInventory.FrmLogin.resources
+C:\Users\chris\Documents\Citechs\CSharp\MiniMartInventory\MiniMartInventory\obj\Debug\MiniMartInventory.Properties.Resources.resources
+C:\Users\chris\Documents\Citechs\CSharp\MiniMartInventory\MiniMartInventory\obj\Debug\MiniMartInventory.csproj.GenerateResource.cache
+C:\Users\chris\Documents\Citechs\CSharp\MiniMartInventory\MiniMartInventory\obj\Debug\MiniMartInventory.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\Citechs\CSharp\MiniMartInventory\MiniMartInventory\obj\Debug\MiniMartInventory.exe
+C:\Users\chris\Documents\Citechs\CSharp\MiniMartInventory\MiniMartInventory\obj\Debug\MiniMartInventory.pdb
+C:\Users\chris\Documents\Citechs\CSharp\MiniMartInventory\MiniMartInventory\obj\Debug\MiniMartInventory.Forms.FrmMain.resources
+C:\Users\chris\Documents\Citechs\CSharp\MiniMartInventory\MiniMartInventory\obj\Debug\MiniMartInventory.FrmAbout.resources
+C:\Users\chris\Documents\Citechs\CSharp\MiniMartInventory\MiniMartInventory\obj\Debug\MiniMartInventory.Forms.FrmCategory.resources
+C:\Users\chris\Documents\Citechs\CSharp\MiniMartInventory\MiniMartInventory\obj\Debug\MiniMartInventory.Forms.FrmSeller.resources
+C:\Users\chris\Documents\Citechs\CSharp\MiniMartInventory\MiniMartInventory\obj\Debug\MiniMartInventory.FrmAdmin.resources
+C:\Users\chris\Documents\Citechs\CSharp\MiniMartInventory\MiniMartInventory\obj\Debug\MiniMartInventory.Forms.FrmProduct.resources
+C:\Users\chris\Documents\Citechs\CSharp\MiniMartInventory\MiniMartInventory\obj\Debug\MiniMartInventory.Forms.FrmSales.resources
